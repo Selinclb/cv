@@ -1,4 +1,5 @@
-<img src="https://ibb.co/6ys4bzk" alt="portfolio" width="320" height="180">
+<img width="1355" alt="Ekran Resmi 2024-12-08 19 31 43" src="https://github.com/user-attachments/assets/4bf8549a-3471-43f2-872a-11285530c049">
+
 
 # Modern Portfolio Website
 
