@@ -1,3 +1,5 @@
+<img src="https://ibb.co/6ys4bzk" alt="portfolio" width="320" height="180">
+
 # Modern Portfolio Website
 
 Modern ve interaktif bir portfolio web sitesi. Django backend ile geliştirilmiş, dinamik içerik yönetimi sunan profesyonel bir portfolyo uygulaması.
